@@ -1,6 +1,20 @@
 body
 {
-    color: rgb(50, 204, 204);
-    text-align: center;
+    color: #1ee03e;
+    text-align: left;
     font-family: "Arial";
+}
+
+#container
+{
+    width: 70% ;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid #edf3ee;
+    margin: 0 auto;
+}
+
+#container h1
+{
+    font-size: 20px;
 }
